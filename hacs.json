@@ -1,0 +1,6 @@
+{
+  "name": "UPS HMI Card",
+  "render_readme": true,
+  "filename": "ups-hmi-card.js",
+  "content_in_root": true
+}
